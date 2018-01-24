@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on sound source localization with massive regressions machine learning techniques."
   },
   "skills":{
     "my_skills": "My Skills"
