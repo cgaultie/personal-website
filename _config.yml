@@ -8,7 +8,8 @@ baseurl:
 url: https://www.gaultier.io
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog
-
+cvButton: Download my detailed CV
+cvLink: /static/assets/pdf/CV_en.pdf
 # author
 author:
   name: Clément Gaultier

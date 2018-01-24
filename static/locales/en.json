@@ -1,6 +1,8 @@
 {
   "website":{
-    "title": "Clément Gaultier"
+    "title": "Clément Gaultier",
+    "cvButton": "Download my detailed Résumé",
+    "cvLink": "/static/assets/pdf/CV_en.pdf"
   },
   "nav":{
     "home": "Home",
@@ -53,7 +55,10 @@
   "link":{
     "link": "Contact",
     "view": "views",
-    "thanks": "Powered by Jekyll using the Jalpc theme."
+    "thanks": "Powered by Jekyll using the Jalpc theme.",
+    "address": "Address:",
+    "phone": "Phone:",
+    "number": "+33 629 509 072"
   }
 
 }

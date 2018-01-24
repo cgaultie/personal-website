@@ -1,6 +1,8 @@
 {
   "website":{
-    "title": "Clément Gaaultier"
+    "title": "Clément Gaaultier",
+    "cvButton": "Télécharger mon CV détaillé",
+    "cvLink": "/static/assets/pdf/CV_fr.pdf"
   },
   "nav":{
     "home": "Accueil",
@@ -53,7 +55,10 @@
   "link":{
     "link": "Contact",
     "view": "vues",
-    "thanks": "Propulsé par Jekyll avec le thème Jalpc."
+    "thanks": "Propulsé par Jekyll avec le thème Jalpc.",
+    "address": "Adresse :",
+    "phone": "Téléphone :",
+    "number": "06 29 50 90 72"
   }
 
 }
