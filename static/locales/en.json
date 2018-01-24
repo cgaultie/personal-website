@@ -30,29 +30,30 @@
   },
   "career":{
     "my_career": "My CV",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    "panama": "PANAMA team (IRISA - Inria/CNRS)",
+    "panama_des": "I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.",
+    "panama_date": "Nov. 2015",
+    "panama_job": "PhD Candidate",
+    "southampton": "Auditory Technology Lab (ISVR - Southampton University)",
+    "southampton_des": "Southampton, blablabla",
+    "southampton_date": "Mar. 2015 - Sep. 2015",
+    "southampton_job": "Engineer in training / Master thesis",
+    "ensim": "French Engineering degree",
+    "ensim_des": "In November 2015, I graduated from ENSIM, an engineering school in 5 years under the authority of the French Ministry of Education and Research. I specialized in Acoustics, Vibrations, Sensors.",
+    "ensim_date": "Nov. 2015",
+    "ensim_job": "Student",
+    "univ": "University Master of Science (Research M.Sc in Acoustcs)",
+    "univ_des": "In November 2015, I also graduated from Université du Maine, as I was following a double degree (Research M.Sc specialized in acoustics).",
+    "univ_date": "Nov. 2015",
+    "univ_job": "Master Student"
   },
   "blog":{
     "my_blog": "My Blog"
   },
   "link":{
     "link": "Contact",
-    "view": "views"
+    "view": "views",
+    "thanks": "Powered by Jekyll using the Jalpc theme."
   }
 
 }

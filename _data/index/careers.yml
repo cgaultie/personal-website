@@ -1,57 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: PANAMA team (IRISA - Inria/CNRS)
+    i18n: panama
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.
+    i18n: panama_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Nov. 2015
+    i18n: panama_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    detail: PhD Candidate
+    i18n: panama_job
+  icon: fa-search
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Auditory Technology Lab (ISVR - Southampton University)
+    i18n: southampton
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: Southampton, blablabla
+    i18n: southampton_des
   date:
-    detail: Jun. 2015
-    i18n: netease_date
+    detail: Mar. 2015 - Sep. 2015
+    i18n: southampton_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: Engineer in training / Master thesis
+    i18n: southampton_job
+  icon: fa-search
+
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: French Engineering degree
+    i18n: ensim
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: In November 2015, I graduated from ENSIM, an engineering school in 5 years under the authority of the French Ministry of Education and Research. I specialized in Acoustics, Vibrations, Sensors.
+    i18n: ensim_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
-  job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
-
-- name:
-    detail: Graduation
-    i18n: college
-  desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
-  date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: Nov. 2015
+    i18n: ensim_date
   job:
     detail: Student
-    i18n: college_job
-  icon: fa-book
+    i18n: ensim_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: University Master of Science (Research M.Sc in Acoustcs)
+    i18n: univ
+  desc:
+    detail: In November 2015, I also graduated from Université du Maine, as I was following a double degree (Research M.Sc specialized in acoustics).
+    i18n: univ_des
+  date:
+    detail: Nov. 2015
+    i18n: univ_date
+  job:
+    detail: Master Student
+    i18n: univ_job
+  icon: fa-graduation-cap
