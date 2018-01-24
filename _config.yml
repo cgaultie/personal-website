@@ -1,24 +1,24 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+title: Clément Gaultier
+description: Clément's blog,use Jekyll and github pages.
+keywords: Clément Gaultier,Auditory,Sound,Acoustics,DSP,Signal Processing,Audio,Declipping,Denoising
 baseurl:
-url: http://www.jarrekk.com
+url: https://www.gaultier.io
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog
 
 # author
 author:
-  name: Jarrekk
-  first_name: Kun
-  last_name: Jia
-  cv: http://cv.jarrekk.com
-  email: me@jarrekk.com
-  facebook_username: jiakunnj
-  github_username: jarrekk
-  linkedin_id: jarrekk
+  name: Clément Gaultier
+  first_name: Clément
+  last_name: Gaultier
+  cv:
+  email: clement@gaultier.io
+  facebook_username:
+  github_username:
+  linkedin_id: clément-gaultier
   avatar: /static/assets/img/landing/Jack.jpeg
   skill_icon1:
     - name: icon-python
@@ -29,20 +29,20 @@ author:
   desc: I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.
 
 # comment
-disqus:
-  name: jalpc
+# disqus:
+#   name:
 
 # analytics
 ## google analytics
-ga:
-  id: UA-93473370-1
+# ga:
+#  id: UA-113020414-1
 
-go:
-  id: GTM-NHMS8GD
+#go:
+#  id:
 
 ## growingIO
-gio:
-  # id: a49d4901c7853da9
+#gio:
+  # id:
 
 ## donation
 donation: on
