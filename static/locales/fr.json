@@ -2,7 +2,8 @@
   "website":{
     "title": "Clément Gaaultier",
     "cvButton": "Télécharger mon CV détaillé",
-    "cvLink": "/static/assets/pdf/CV_fr.pdf"
+    "cvLink": "/static/assets/pdf/CV_fr.pdf",
+    "publications_sec": "Mes Publications"
   },
   "nav":{
     "home": "Accueil",

@@ -10,12 +10,13 @@ url: https://www.gaultier.io
 img_path: /static/assets/img/blog
 cvButton: Download my detailed CV
 cvLink: /static/assets/pdf/CV_en.pdf
+publications_sec: My publications
 # author
 author:
   name: Clément Gaultier
   first_name: Clément
   last_name: Gaultier
-  cv:
+  cv: https://www.gaultier.io/static/assets/pdf/CV_en.pdf
   email: clement@gaultier.io
   facebook_username: # removed in the template
   github_username: # removed in the template
@@ -31,6 +32,26 @@ author:
     - name: fa-microphone
   desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on sound source localization with massive regressions machine learning techniques.
 
+scholar:
+  style: static/assets/bibliography/ieee-with-url.csl
+  locale: en
+
+  sort_by: year
+  order: descending
+  bibliography_list_tag: ul
+
+  source: _bibliography
+  repository: pdf
+  bibliography: references
+  bibliography_template: bibliography
+
+  replace_strings: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
 # comment
 # disqus:
 #   name:
