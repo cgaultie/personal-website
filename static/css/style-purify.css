@@ -105,7 +105,7 @@ h3,h4,h5 {
 }
 
 .nav>li.active {
-  border-left: 4px solid #3385FF;
+  border-left: 4px solid #265279;
   background: #293846;
 }
 
@@ -200,18 +200,18 @@ body.mini-navbar .navbar-default .nav>li>.nav-second-level li a {
 }
 
 .navbar-default .landing_link a {
-  background: #3385FF;
+  background: #265279;
   color: #fff;
 }
 
 .navbar-default .landing_link a:hover {
-  background: #3385FF!important;
+  background: #265279!important;
   color: #fff;
 }
 
 .navbar-default .landing_link a span.label {
   background: #fff;
-  color: #3385FF;
+  color: #265279;
 }
 
 .navbar-fixed-top {
@@ -266,7 +266,7 @@ body.mini-navbar .navbar-default .nav>li>a {
 
 body.mini-navbar .nav-header {
   padding: 0;
-  background-color: #3385FF;
+  background-color: #265279;
 }
 
 body.canvas-menu .nav-header {
@@ -333,7 +333,7 @@ body.canvas-menu.mini-navbar .nav-label,body.canvas-menu.mini-navbar .navbar-def
 
 .top-navigation .nav>li a:focus,.top-navigation .nav>li a:hover {
   background: #fff;
-  color: #3385FF;
+  color: #265279;
 }
 
 .top-navigation .nav>li.active {
@@ -342,7 +342,7 @@ body.canvas-menu.mini-navbar .nav-label,body.canvas-menu.mini-navbar .navbar-def
 }
 
 .top-navigation .nav>li.active>a {
-  color: #3385FF;
+  color: #265279;
 }
 
 .top-navigation .navbar-right {
@@ -354,7 +354,7 @@ body.canvas-menu.mini-navbar .nav-label,body.canvas-menu.mini-navbar .navbar-def
 }
 
 .top-navigation .navbar-brand {
-  background: #3385FF;
+  background: #265279;
   color: #fff;
   padding: 15px 25px;
 }
@@ -384,7 +384,7 @@ body.canvas-menu.mini-navbar .nav-label,body.canvas-menu.mini-navbar .navbar-def
 }
 
 .navbar-toggle {
-  background-color: #3385FF;
+  background-color: #265279;
   color: #fff;
   padding: 6px 12px;
   font-size: 14px;
@@ -428,7 +428,7 @@ button.dim {
 }
 
 .btn-primary.btn-outline {
-  color: #3385FF;
+  color: #265279;
 }
 
 .btn-success.btn-outline {
@@ -448,8 +448,8 @@ button.dim {
 }
 
 .btn-primary {
-  background-color: #3385FF;
-  border-color: #3385FF;
+  background-color: #265279;
+  border-color: #265279;
   color: #FFF;
 }
 
@@ -539,7 +539,7 @@ button.dim {
 }
 
 .btn-link.active,.btn-link:active,.btn-link:focus,.btn-link:hover {
-  color: #3385FF;
+  color: #265279;
   text-decoration: none;
 }
 
@@ -674,7 +674,7 @@ button.dim:active:before {
 }
 
 .label-primary {
-  background-color: #3385FF;
+  background-color: #265279;
   color: #FFF;
 }
 
@@ -795,11 +795,11 @@ button.dim:active:before {
 }
 
 .form-control:focus {
-  border-color: #3385FF!important;
+  border-color: #265279!important;
 }
 
 .has-success .form-control {
-  border-color: #3385FF;
+  border-color: #265279;
 }
 
 .has-warning .form-control {
@@ -811,7 +811,7 @@ button.dim:active:before {
 }
 
 .has-success .control-label {
-  color: #3385FF;
+  color: #265279;
 }
 
 .has-warning .control-label {
@@ -1084,7 +1084,7 @@ label.error {
 }
 
 .vertical-date small {
-  color: #3385FF;
+  color: #265279;
   font-weight: 400;
 }
 
@@ -1153,7 +1153,7 @@ label.error {
 }
 
 .slick-next:before,.slick-prev:before {
-  color: #3385FF!important;
+  color: #265279!important;
 }
 
 .tour-tour .btn.btn-default {
@@ -1392,12 +1392,12 @@ code {
 }
 
 .navy-bg {
-  background-color: #3385FF;
+  background-color: #265279;
   color: #fff;
 }
 
 .panel-primary {
-  border-color: #3385FF;
+  border-color: #265279;
 }
 
 .panel-success {
@@ -1417,7 +1417,7 @@ code {
 }
 
 .text-navy {
-  color: #3385FF;
+  color: #265279;
 }
 
 .text-primary {
@@ -1785,7 +1785,7 @@ ul.clear-list:first-child {
 }
 
 .category-list li a .text-navy {
-  color: #3385FF;
+  color: #265279;
 }
 
 .category-list li a .text-primary {
@@ -1868,7 +1868,7 @@ ul.clear-list:first-child {
 }
 
 .file-list li a:hover {
-  color: #3385FF;
+  color: #265279;
 }
 
 .user-friends img {
@@ -1998,7 +1998,7 @@ ul.clear-list:first-child {
 }
 
 .product-name:focus,.product-name:hover {
-  color: #3385FF;
+  color: #265279;
 }
 
 .social-feed-box {
@@ -2074,7 +2074,7 @@ ul.clear-list:first-child {
 }
 
 .vote-actions a {
-  color: #3385FF;
+  color: #265279;
   font-weight: 600;
 }
 
@@ -2099,7 +2099,7 @@ ul.clear-list:first-child {
 }
 
 .vote-info a:hover {
-  color: #3385FF;
+  color: #265279;
 }
 
 .vote-icon {
@@ -2109,7 +2109,7 @@ ul.clear-list:first-child {
 }
 
 .vote-icon.active {
-  color: #3385FF;
+  color: #265279;
 }
 
 body.body-small .vote-icon {
@@ -2439,7 +2439,7 @@ body.landing-page {
 }
 
 .landing-page span.navy {
-  color: #3385FF;
+  color: #265279;
 }
 
 .landing-page p.text-color {
@@ -2447,12 +2447,12 @@ body.landing-page {
 }
 
 .landing-page a.navy-link {
-  color: #3385FF;
+  color: #265279;
   text-decoration: none;
 }
 
 .landing-page a.navy-link:hover {
-  color: #3385FF;
+  color: #265279;
 }
 
 .landing-page section p {
@@ -2474,7 +2474,7 @@ body.landing-page {
   width: 60px;
   height: 1px;
   margin: 60px auto 0;
-  border-bottom: 2px solid #3385FF;
+  border-bottom: 2px solid #265279;
 }
 
 .landing-page .navbar-wrapper {
@@ -2524,11 +2524,11 @@ body.landing-page {
 .landing-page .navbar-default .navbar-nav>.active>a,.landing-page .navbar-default .navbar-nav>.active>a:hover {
   background: 0 0;
   color: #fff;
-  border-top: 6px solid #3385FF;
+  border-top: 6px solid #265279;
 }
 
 .landing-page .navbar-default .navbar-nav>li>a:focus,.landing-page .navbar-default .navbar-nav>li>a:hover {
-  color: #3385FF;
+  color: #265279;
   background: inherit;
 }
 
@@ -2543,7 +2543,7 @@ body.landing-page {
 }
 
 .landing-page .navbar-default .navbar-brand:focus,.landing-page .navbar-default .navbar-brand:hover {
-  background: #3385FF;
+  background: #265279;
   color: #fff;
 }
 
@@ -2552,7 +2552,7 @@ body.landing-page {
   height: auto;
   display: block;
   font-size: 14px;
-  background: #3385FF;
+  background: #265279;
   padding: 15px 20px;
   border-radius: 0 0 5px 5px;
   font-weight: 700;
@@ -2564,7 +2564,7 @@ body.landing-page {
 }
 
 .landing-page .navbar-scroll.navbar-default .nav li a:hover {
-  color: #3385FF;
+  color: #265279;
 }
 
 .landing-page .navbar-wrapper .navbar.navbar-scroll {
@@ -2727,7 +2727,7 @@ body.landing-page {
 }
 
 .landing-page .features small {
-  color: #3385FF;
+  color: #265279;
 }
 
 .landing-page .features h2 {
@@ -2736,13 +2736,13 @@ body.landing-page {
 }
 
 .landing-page .features-icon {
-  color: #3385FF;
+  color: #265279;
   font-size: 40px;
 }
 
 .landing-page .navy-section {
   margin-top: 60px;
-  background: #3385FF;
+  background: #265279;
   color: #fff;
   padding: 20px 0;
 }
@@ -2761,7 +2761,7 @@ body.landing-page {
 }
 
 .landing-page .social-icon a {
-  background: #3385FF;
+  background: #265279;
   color: #fff;
   padding: 4px 8px;
   height: 28px;
@@ -2771,7 +2771,7 @@ body.landing-page {
 }
 
 .landing-page .social-icon a:hover {
-  background: #3385FF;
+  background: #265279;
 }
 
 .landing-page .img-small {
@@ -2787,7 +2787,7 @@ body.landing-page {
 .landing-page .testimonials {
   padding-top: 80px;
   padding-bottom: 90px;
-  background-color: #3385FF;
+  background-color: #265279;
   background-image: url(../img/landing/avatar_all.png);
 }
 
@@ -2823,8 +2823,8 @@ body.landing-page {
 }
 
 .landing-page .btn-primary,.landing-page .btn-primary.active,.landing-page .btn-primary:active,.landing-page .btn-primary:focus,.landing-page .btn-primary:hover {
-  background-color: #3385FF;
-  border-color: #3385FF;
+  background-color: #265279;
+  border-color: #265279;
   color: #FFF;
 }
 
@@ -2900,7 +2900,7 @@ body.landing-page {
   }
 
   .landing-page .navbar-default .nav li a:hover {
-    color: #3385FF;
+    color: #265279;
   }
 
   .landing-page .navbar-wrapper .navbar {
