@@ -23,10 +23,10 @@
   },
   "projects":{
     "my_projects": "Mes Projets",
-    "saplatform": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
-    "jalpc": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour la localisation de source sonores en utilisant des méthodes d'apprentissage virtuellement supervisé.",
-    "angularjs": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
-    "imgkit": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des a-priori parcimomieux à l'analyse."
+    "spare": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
+    "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour la localisation de source sonores en utilisant des méthodes d'apprentissage virtuellement supervisé.",
+    "jsm": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
+    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) développe une méthode de désaturation audio utilisant des a-priori parcimomieux à l'analyse."
   },
   "career":{
     "my_career": "Mon CV",

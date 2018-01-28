@@ -23,10 +23,10 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "saplatform": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
-    "jalpc": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for sound source localization using virtually supervised leanring.",
-    "angularjs": "JSM (Journée Science et Musique) is a science popularization open day about science and musique organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
-    "imgkit": "A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors."
+    "spare": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
+    "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for sound source localization using virtually supervised leanring.",
+    "jsm": "JSM (Journée Science et Musique) is a science popularization open day about science and musique organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
+    "aspade": "A-SPADE (Analysis SParse Audio DEclipper) is a research project that developped an audio declipping procedure using analysis sparse modeling priors."
   },
   "career":{
     "my_career": "My CV",
