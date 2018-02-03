@@ -2,7 +2,7 @@
 
 # Website settings
 title: Clément Gaultier
-description: Clément's blog,use Jekyll and github pages.
+description: Clément's blog, use Jekyll and github pages.
 keywords: Clément Gaultier,Auditory,Sound,Acoustics,DSP,Signal Processing,Audio,Declipping,Denoising
 baseurl:
 url: https://www.gaultier.io
@@ -30,28 +30,8 @@ author:
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also worked on sound source localization with massive regressions machine learning techniques.
+  desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interessted in the auditory system functionning and topics such as augmented hearing, speech enhancement or heraing protection.   
 
-scholar:
-  style: static/assets/bibliography/ieee-with-url.csl
-  locale: en
-
-  sort_by: year
-  order: descending
-  bibliography_list_tag: ul
-
-  source: _bibliography
-  repository: pdf
-  bibliography: references
-  bibliography_template: bibliography
-
-  replace_strings: true
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
 # comment
 # disqus:
 #   name:
