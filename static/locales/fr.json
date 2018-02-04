@@ -23,6 +23,7 @@
   },
   "projects":{
     "my_projects": "Mes Projets",
+    "intro": "Ci-dessous, vous trouverez quelques projets sur lequels je travaille. Cliquez sur le nom pour visiter la page web associée.",
     "spare": "Spare (SParse Audio REstoration) est un projet de recherche proposant un nouveau cadre pour traiter des problèmes de reconstruction audio comme le débruitage et la désaturation.",
     "vast": "VAST (The Virtual Acoustic Space Traveler) apporte de nouveaux outils pour la localisation de source sonores en utilisant des méthodes d'apprentissage virtuellement supervisé.",
     "jsm": "JSM (Journée Science et Musique) est une journée grand public de médiation scientifique sur les thèmes Science & Musique organisée chaque année par l'équipe PANAMA (Centre de recherche IRISA - Rennes) ",
@@ -30,6 +31,7 @@
   },
   "career":{
     "my_career": "Mon CV",
+    "intro": "Vous trouverez ci-dessous une courte description de ma situation professionelle ainsi que mes diplômes.",
     "panama": "Équipe PANAMA, IRISA - Inria/CNRS (France)",
     "panama_des": "Je suis actuellement doctorant au sein de l'équipe PANAMA (une équipe commune à Inria et au CNRS). Mes thèmes de recherche sont la résolution de problèmes inverses en acoustique et traitement du signal audio.",
     "panama_date": "Nov. 2015",
@@ -51,6 +53,7 @@
     "my_blog": "My Blog"
   },
   "link":{
+    "intro": "Pour m'écrire par voie postale, utilisez l'adresse ci-dessous ou cliquez sur l'enveloppe pour m'envoyer un courier électronique.",
     "link": "Contact",
     "view": "vues",
     "thanks": "Propulsé par Jekyll avec le thème Jalpc.",

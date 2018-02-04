@@ -15496,7 +15496,7 @@ h3, h4, h5 {
 }
 
 .nav > li.active {
-    border-left: 4px solid #265279;
+    border-left: 4px solid #2A589A;
     background: #293846
 }
 
@@ -15591,18 +15591,18 @@ body.mini-navbar .navbar-default .nav > li > .nav-second-level li a {
 }
 
 .navbar-default .landing_link a {
-    background: #265279;
+    background: #2A589A;
     color: #fff
 }
 
 .navbar-default .landing_link a:hover {
-    background: #265279 !important;
+    background: #2A589A !important;
     color: #fff
 }
 
 .navbar-default .landing_link a span.label {
     background: #fff;
-    color: #265279
+    color: #2A589A
 }
 
 .navbar-fixed-top {
@@ -15657,7 +15657,7 @@ body.mini-navbar .navbar-default .nav > li > a {
 
 body.mini-navbar .nav-header {
     padding: 0;
-    background-color: #265279
+    background-color: #2A589A
 }
 
 body.canvas-menu .nav-header {
@@ -15724,7 +15724,7 @@ body.canvas-menu.mini-navbar .nav-label, body.canvas-menu.mini-navbar .navbar-de
 
 .top-navigation .nav > li a:focus, .top-navigation .nav > li a:hover {
     background: #fff;
-    color: #265279
+    color: #2A589A
 }
 
 .top-navigation .nav > li.active {
@@ -15733,7 +15733,7 @@ body.canvas-menu.mini-navbar .nav-label, body.canvas-menu.mini-navbar .navbar-de
 }
 
 .top-navigation .nav > li.active > a {
-    color: #265279
+    color: #2A589A
 }
 
 .top-navigation .navbar-right {
@@ -15745,7 +15745,7 @@ body.canvas-menu.mini-navbar .nav-label, body.canvas-menu.mini-navbar .navbar-de
 }
 
 .top-navigation .navbar-brand {
-    background: #265279;
+    background: #2A589A;
     color: #fff;
     padding: 15px 25px
 }
@@ -15777,7 +15777,7 @@ body.canvas-menu.mini-navbar .nav-label, body.canvas-menu.mini-navbar .navbar-de
 }
 
 .navbar-toggle {
-    background-color: #265279;
+    background-color: #2A589A;
     color: #fff;
     padding: 6px 12px;
     font-size: 14px
@@ -15821,7 +15821,7 @@ button.dim {
 }
 
 .btn-primary.btn-outline {
-    color: #265279
+    color: #2A589A
 }
 
 .btn-success.btn-outline {
@@ -15842,8 +15842,8 @@ button.dim {
 }
 
 .btn-primary {
-    background-color: #265279;
-    border-color: #265279;
+    background-color: #2A589A;
+    border-color: #2A589A;
     color: #fff
 }
 
@@ -15948,7 +15948,7 @@ button.dim {
 }
 
 .btn-link.active, .btn-link:active, .btn-link:focus, .btn-link:hover {
-    color: #265279;
+    color: #2A589A;
     text-decoration: none
 }
 
@@ -16090,7 +16090,7 @@ button.dim:active:before {
 }
 
 .label-primary {
-    background-color: #265279;
+    background-color: #2A589A;
     color: #fff
 }
 
@@ -16211,11 +16211,11 @@ button.dim:active:before {
 }
 
 .form-control:focus {
-    border-color: #265279 !important
+    border-color: #2A589A !important
 }
 
 .has-success .form-control {
-    border-color: #265279
+    border-color: #2A589A
 }
 
 .has-warning .form-control {
@@ -16227,7 +16227,7 @@ button.dim:active:before {
 }
 
 .has-success .control-label {
-    color: #265279
+    color: #2A589A
 }
 
 .has-warning .control-label {
@@ -16500,7 +16500,7 @@ label.error {
 }
 
 .vertical-date small {
-    color: #265279;
+    color: #2A589A;
     font-weight: 400
 }
 
@@ -16570,7 +16570,7 @@ label.error {
 }
 
 .slick-next:before, .slick-prev:before {
-    color: #265279 !important
+    color: #2A589A !important
 }
 
 .tour-tour .btn.btn-default {
@@ -16811,12 +16811,12 @@ code {
 }
 
 .navy-bg {
-    background-color: #265279;
+    background-color: #2A589A;
     color: #fff
 }
 
 .panel-primary {
-    border-color: #265279
+    border-color: #2A589A
 }
 
 .panel-success {
@@ -16836,7 +16836,7 @@ code {
 }
 
 .text-navy {
-    color: #265279
+    color: #2A589A
 }
 
 .text-primary {
@@ -17204,7 +17204,7 @@ ul.clear-list:first-child {
 }
 
 .category-list li a .text-navy {
-    color: #265279
+    color: #2A589A
 }
 
 .category-list li a .text-primary {
@@ -17287,7 +17287,7 @@ ul.clear-list:first-child {
 }
 
 .file-list li a:hover {
-    color: #265279
+    color: #2A589A
 }
 
 .user-friends img {
@@ -17417,7 +17417,7 @@ ul.clear-list:first-child {
 }
 
 .product-name:focus, .product-name:hover {
-    color: #265279
+    color: #2A589A
 }
 
 .social-feed-box {
@@ -17493,7 +17493,7 @@ ul.clear-list:first-child {
 }
 
 .vote-actions a {
-    color: #265279;
+    color: #2A589A;
     font-weight: 600
 }
 
@@ -17518,7 +17518,7 @@ ul.clear-list:first-child {
 }
 
 .vote-info a:hover {
-    color: #265279
+    color: #2A589A
 }
 
 .vote-icon {
@@ -17528,7 +17528,7 @@ ul.clear-list:first-child {
 }
 
 .vote-icon.active {
-    color: #265279
+    color: #2A589A
 }
 
 body.body-small .vote-icon {
@@ -17858,7 +17858,7 @@ body.landing-page {
 }
 
 .landing-page span.navy {
-    color: #265279
+    color: #2A589A
 }
 
 .landing-page p.text-color {
@@ -17866,12 +17866,12 @@ body.landing-page {
 }
 
 .landing-page a.navy-link {
-    color: #265279;
+    color: #2A589A;
     text-decoration: none
 }
 
 .landing-page a.navy-link:hover {
-    color: #265279
+    color: #2A589A
 }
 
 .landing-page section p {
@@ -17893,7 +17893,7 @@ body.landing-page {
     width: 60px;
     height: 1px;
     margin: 60px auto 0;
-    border-bottom: 2px solid #265279
+    border-bottom: 2px solid #2A589A
 }
 
 .landing-page .navbar-wrapper {
@@ -17943,11 +17943,11 @@ body.landing-page {
 .landing-page .navbar-default .navbar-nav > .active > a, .landing-page .navbar-default .navbar-nav > .active > a:hover {
     background: 0 0;
     color: #fff;
-    border-top: 6px solid #265279
+    border-top: 6px solid #2A589A
 }
 
 .landing-page .navbar-default .navbar-nav > li > a:focus, .landing-page .navbar-default .navbar-nav > li > a:hover {
-    color: #265279;
+    color: #2A589A;
     background: inherit
 }
 
@@ -17962,7 +17962,7 @@ body.landing-page {
 }
 
 .landing-page .navbar-default .navbar-brand:focus, .landing-page .navbar-default .navbar-brand:hover {
-    background: #265279;
+    background: #2A589A;
     color: #fff
 }
 
@@ -17971,7 +17971,7 @@ body.landing-page {
     height: auto;
     display: block;
     font-size: 14px;
-    background: #265279;
+    background: #2A589A;
     padding: 15px 20px;
     border-radius: 0 0 5px 5px;
     font-weight: 700;
@@ -17983,7 +17983,7 @@ body.landing-page {
 }
 
 .landing-page .navbar-scroll.navbar-default .nav li a:hover {
-    color: #265279
+    color: #2A589A
 }
 
 .landing-page .navbar-wrapper .navbar.navbar-scroll {
@@ -18144,7 +18144,7 @@ body.landing-page {
 }
 
 .landing-page .features small {
-    color: #265279
+    color: #2A589A
 }
 
 .landing-page .features h2 {
@@ -18153,13 +18153,13 @@ body.landing-page {
 }
 
 .landing-page .features-icon {
-    color: #265279;
+    color: #2A589A;
     font-size: 40px
 }
 
 .landing-page .navy-section {
     margin-top: 60px;
-    background: #265279;
+    background: #2A589A;
     color: #fff;
     padding: 20px 0
 }
@@ -18178,7 +18178,7 @@ body.landing-page {
 }
 
 .landing-page .social-icon a {
-    background: #265279;
+    background: #2A589A;
     color: #fff;
     padding: 4px 8px;
     height: 28px;
@@ -18188,7 +18188,7 @@ body.landing-page {
 }
 
 .landing-page .social-icon a:hover {
-    background: #265279
+    background: #2A589A
 }
 
 .landing-page .img-small {
@@ -18204,7 +18204,7 @@ body.landing-page {
 .landing-page .testimonials {
     padding-top: 80px;
     padding-bottom: 90px;
-    background-color: #265279;
+    background-color: #2A589A;
     background-image: url(img/landing/avatar_all.png)
 }
 
@@ -18242,8 +18242,8 @@ body.landing-page {
 
 .landing-page .btn-primary, .landing-page .btn-primary.active, .landing-page .btn-primary:active,
 .landing-page .btn-primary:focus, .landing-page .btn-primary:hover {
-    background-color: #265279;
-    border-color: #265279;
+    background-color: #2A589A;
+    border-color: #2A589A;
     color: #fff
 }
 
@@ -18321,7 +18321,7 @@ body.landing-page {
     }
 
     .landing-page .navbar-default .nav li a:hover {
-        color: #265279
+        color: #2A589A
     }
 
     .landing-page .navbar-wrapper .navbar {

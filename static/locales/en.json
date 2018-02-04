@@ -16,13 +16,14 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interessted in the auditory system functionning and topics such as augmented hearing, speech enhancement or heraing protection."
+    "des": "I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interessted in the auditory system functionning and topics such as augmented hearing, speech enhancement or hearing protection."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
+    "intro": "Below are listed some of the projects I am working on. Click on the name to visit the associated webpage.",
     "spare": "Spare (SParse Audio REstoration) is a research project aming at proposing a new modeling and algorithmic framework to tackle audio reconstruction issues like denoising and declipping.",
     "vast": "VAST (The Virtual Acoustic Space Traveler) is a research project aming at providing tools for sound source localization using virtually supervised leanring.",
     "jsm": "JSM (Journée Science et Musique) is a science popularization open day about science and musique organized every year by the PANAMA team (IRISA research center, Rennes (France)).",
@@ -30,6 +31,7 @@
   },
   "career":{
     "my_career": "My CV",
+    "intro": "You will find below a short description of my last positions and academic degrees.",
     "panama": "PANAMA team, IRISA - Inria/CNRS (France)",
     "panama_des": "I am currently working as a PhD student in the Panama team (a joint project team between Inria and CNRS). My main research interests are inverse problems in audio & acoustic signal processing.",
     "panama_date": "Nov. 2015",
@@ -51,6 +53,7 @@
     "my_blog": "My Blog"
   },
   "link":{
+    "intro": "Snail mail should go to the address below, otherwise, you can click on the enveloppe to send me an email.",
     "link": "Contact",
     "view": "views",
     "thanks": "Powered by Jekyll using the Jalpc theme.",
