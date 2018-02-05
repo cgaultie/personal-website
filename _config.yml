@@ -23,14 +23,14 @@ author:
   linkedin_id: clément-gaultier-42811895
   twitter_username:
   scholar_address: https://scholar.google.com/citations?user=pP4U2sMAAAAJ&hl=en
-  avatar: /static/assets/img/landing/Jack.jpeg
+  avatar: /static/assets/img/landing/Clement.png
   skill_icon1:
     - name: fa-headphones
     - name: icon-shell
   skill_icon2:
     - name: fa-assistive-listening-systems
     - name: fa-microphone
-  desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interessted in the auditory system functionning and topics such as augmented hearing, speech enhancement or heraing protection.   
+  desc: I work as a PhD student in the PANAMA team mainly on solving acoustic and audio signal processing inverse problems. From November 2015 I have been working on declipping and denoising using analysis/synthesis sparse priors. I also work on binaural sound source localization with massive regressions machine learning techniques. Additionaly, I am really interessted in the auditory system functionning and topics such as augmented hearing, speech enhancement or heraing protection.
 
 # comment
 # disqus:
