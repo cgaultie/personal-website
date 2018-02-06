@@ -13,6 +13,7 @@
     detail: PhD Candidate
     i18n: panama_job
   icon: fa-search
+  link: https://team.inria.fr/panama/
 
 - name:
     detail: Hearing and Balance Centre (ISVR - Southampton University)
@@ -27,10 +28,11 @@
     detail: Engineer in training / Master thesis
     i18n: southampton_job
   icon: fa-search
+  link: https://www.southampton.ac.uk/engineering/research/centres/hearing_centre/habc_research.page
 
 
 - name:
-    detail: French Engineering degree
+    detail: French Engineering degree (ENSIM)
     i18n: ensim
   desc:
     detail: In November 2015, I graduated from ENSIM, an engineering school in 5 years under the authority of the French Ministry of Education and Research. I specialized in Acoustics, Vibrations, Sensors.
@@ -42,12 +44,13 @@
     detail: Student
     i18n: ensim_job
   icon: fa-graduation-cap
+  link: http://ensim.univ-lemans.fr/fr/index.html
 
 - name:
-    detail: University Master of Science (Research M.Sc in Acoustcs)
+    detail: University of Le Mans Master of Science (Research M.Sc in Acoustcs)
     i18n: univ
   desc:
-    detail: In November 2015, I also graduated from Université du Maine, as I was following a double degree (Research M.Sc specialized in acoustics).
+    detail: In November 2015, I also graduated from Le Mans Université, as I was following a double degree (Research M.Sc specialized in acoustics).
     i18n: univ_des
   date:
     detail: Nov. 2015
@@ -56,3 +59,4 @@
     detail: Master Student
     i18n: univ_job
   icon: fa-graduation-cap
+  link: http://sciences.univ-lemans.fr/master-acoustique/?lang=en

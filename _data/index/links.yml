@@ -3,8 +3,12 @@
   first_name: Clément
   desc:
   website: http://www.gaultier.io
-  email: clement@gaultier.io
-  post: 7 allée Jean de la Varende, 35700 Rennes (FRANCE)
+  email: clement.gaultier@inria.fr
+  post: Centre Inria Rennes-Bretagne-Atlantique
+  office: Bureau C 316
+  number: Campus de Beaulieu
+  city: 35042 Rennes cedex
+  country: France
 
 # - last_name: Donate
 #   first_name: Jalpc
